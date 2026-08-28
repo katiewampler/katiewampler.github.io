@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "katiewampler.github.io"
+  title: "Katie Wampler"
   navbar:
     left:
       - href: index.qmd
@@ -11,10 +11,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - styles.scss
     toc: true
-
+    
 editor: visual
 
 execute:

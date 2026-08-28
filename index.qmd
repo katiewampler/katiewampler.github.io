@@ -1,11 +1,20 @@
 ---
-title: "katiewampler.github.io"
+title: "Katie Wampler"
+image: images/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katie-wampler/
+    - icon: github
+      text: GitHub
+      href: https://github.com/katiewampler
+    - icon: envelope-fill
+      text: Email
+      href: mailto:katie.wampler@oregonstate.edu
+    - icon: mortarboard-fill
+      text: Google Scholar 
+      href: "https://scholar.google.com/citations?user=-6A0bFQAAAAJ&hl=en&oi=ao" 
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
