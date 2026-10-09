@@ -1,0 +1,474 @@
+- key: kangModelingRecoveryHydrology2026
+  title: Modeling recovery of hydrology and dissolved organic carbon dynamics after
+    wildfire in the Pacific Northwest
+  authors:
+  - firstName: Hyunwoo
+    lastName: Kang
+    creatorType: author
+  - firstName: Katie A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: Kevin D.
+    lastName: Bladon
+    creatorType: author
+  - firstName: Jennifer C.
+    lastName: Adam
+    creatorType: author
+  date: '2026'
+  journal: Journal of Hydrology
+  volume: ~
+  issue: ~
+  pages: ~
+  doi: ~
+  abstract: ~
+  url: ~
+  has_article: no
+  primary: no
+  inreview: yes
+  informal: no
+- key: wamplerLongtermMonitoringReveals2026
+  title: Long-term monitoring reveals muted, seasonally distinct water quality responses
+    to wildfire across a stream network in the Pacific Northwest, USA
+  authors:
+  - firstName: Katie A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: Marta
+    lastName: Basso
+    creatorType: author
+  - firstName: Riley
+    lastName: Barton
+    creatorType: author
+  - firstName: David
+    lastName: Donahue
+    creatorType: author
+  - firstName: Lisa
+    lastName: Erkert
+    creatorType: author
+  - firstName: Ryan P.
+    lastName: Cole
+    creatorType: author
+  - firstName: Katherine E.
+    lastName: McCredie
+    creatorType: author
+  - firstName: Steven M.
+    lastName: Wondzell
+    creatorType: author
+  - firstName: Kevin D.
+    lastName: Bladon
+    creatorType: author
+  date: '2026'
+  journal: Water Resources Research
+  volume: ~
+  issue: ~
+  pages: ~
+  doi: ~
+  abstract: The occurrence of large, high severity wildfires has increased across
+    the Pacific Northwest, with potential effects on watershed processes and water
+    quality. However, quantifying the magnitude and persistence of wildfire impacts
+    remains challenging due to the unpredictable nature of wildfires and limited long-term
+    and pre-fire reference data. In our study we used a unique dataset of 19 years
+    of water quality data spanning 14 years pre-fire and 5 years post-fire across
+    eight sites in the Cascade Mountains of western Oregon to evaluate wildfire effects
+    on carbon, nitrogen, phosphorus, and sediment concentrations. Bayesian generalized
+    linear mixed models were used to quantify wildfire effects on concentration differences
+    across time (pre-/post-fire) and burn status (burned/unburned). Counter to much
+    of the literature from wildfires in other regions, we found muted and uncertain
+    wildfire effects. However, seasonal impacts were observed. During the dry summer
+    period, dissolved organic carbon increased (174 %) while orthophosphate (-53 %)
+    and nitrate (-113 %) decreased, suggesting increased productivity following wildfire.
+    The fall wetting-up period showed small increases in total suspended solids (140
+    %) and total organic carbon (35 %), which may reflect short-term increases in
+    available sediment from dry ravel, enhanced bank erosion, or entrainment of channel
+    sediment due to enhanced streamflow. We also found that site-level climate and
+    landscape characteristics were critical for accurately assessing wildfire impacts,
+    with daily precipitation strongly influencing constituent concentrations. Our
+    findings underscore the value of long-term monitoring of reference sites for disentangling
+    water quality responses to wildfire relative to natural climatic variability.
+  url: ~
+  has_article: no
+  primary: yes
+  inreview: yes
+  informal: no
+  materials: https://doi.org/10.6073/pasta/5bd185eb1e234d81b7b4c3fe0b72d592
+- key: roebuckjr.SpatiotemporalControlsDelivery2022
+  title: Spatiotemporal Controls on the Delivery of Dissolved Organic Matter to Streams
+    Following a Wildfire
+  authors:
+  - firstName: Jesse Alan
+    lastName: Roebuck Jr.
+    creatorType: author
+  - firstName: Kevin D.
+    lastName: Bladon
+    creatorType: author
+  - firstName: David
+    lastName: Donahue
+    creatorType: author
+  - firstName: Emily B.
+    lastName: Graham
+    creatorType: author
+  - firstName: Samantha
+    lastName: Grieger
+    creatorType: author
+  - firstName: Karl
+    lastName: Morgenstern
+    creatorType: author
+  - firstName: Matthew J.
+    lastName: Norwood
+    creatorType: author
+  - firstName: Katie A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: Lisa
+    lastName: Erkert
+    creatorType: author
+  - firstName: Lupita
+    lastName: Renteria
+    creatorType: author
+  - firstName: Robert
+    lastName: Danczak
+    creatorType: author
+  - firstName: Susan
+    lastName: Fricke
+    creatorType: author
+  - firstName: Allison N.
+    lastName: Myers-Pigg
+    creatorType: author
+  date: '2022'
+  journal: Geophysical Research Letters
+  volume: '49'
+  issue: '16'
+  pages: e2022GL099535
+  doi: 10.1029/2022GL099535
+  abstract: Warmer and drier climate has contributed to increased occurrence of large,
+    high severity wildfires in the Pacific Northwest, drawing concerns for water quality
+    and ecosystem recovery. While nutrient fluxes generally increase post-fire, the
+    composition of organic matter (OM) transported to streams immediately following
+    a fire is poorly constrained, yet can play an integral role in downstream water
+    quality and biogeochemistry. Here, we quantified the spatiotemporal patterns of
+    dissolved OM (DOM) chemistry for five streams burned by wildfires in Oregon, USA
+    in 2020. We sampled over a 24 hr storm event 1 month after the fire revealing
+    DOM dynamics were temporally variable, but spatially linked with burn severity.
+    Specifically, nitrogen and aromatic character of DOM increased in streams burned
+    at greater severity. Our results suggest spatially distinct gradients of burn
+    severity impact DOM dynamics immediately following fire activity and highlight
+    a key gap in our knowledge of post-fire DOM transport to streams.
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GL099535
+  has_article: yes
+  primary: no
+  inreview: no
+  informal: no
+  materials: https://doi.org/10.15485/1869708
+- key: wamplerModelingWildfireEffects2023
+  title: Modeling wildfire effects on streamflow in the Cascade Mountains, Oregon,
+    USA
+  authors:
+  - firstName: K. A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: K. D.
+    lastName: Bladon
+    creatorType: author
+  - firstName: M.
+    lastName: Faramarzi
+    creatorType: author
+  date: '2023-06-01'
+  journal: Journal of Hydrology
+  volume: '621'
+  issue: ~
+  pages: '129585'
+  doi: 10.1016/j.jhydrol.2023.129585
+  abstract: Increasing occurrence of large and severe wildfires represents a growing
+    threat to forested watersheds and the many ecosystem services they provide. Past
+    research has shown that wildfires can cause substantial increases in peak flows
+    and annual water yields, leading to potential water quality concerns and land
+    and water management challenges. However, responses have been variable, and there
+    have been few studies at large basin scales, leading to uncertainties about post-fire
+    hydrologic responses. To address these uncertainties, we projected the effect
+    of three large wildfires (>70,000 ha) on streamflow in two important forested
+    watersheds in the Cascade Range of Oregon, US. We modeled the streamflow response
+    using the Soil and Water Assessment Tool (SWAT) model, calibrated on data from
+    prior to the wildfires. We modified model parameters to represent the impacts
+    of the wildfires based on burn severity maps. Burned and unburned scenarios were
+    compared using random forest models to identify drivers of increased annual water
+    yields and peak flows. Post-fire annual water yield changes were controlled by
+    burn severity, annual precipitation, area burned, aridity, and vegetation type,
+    while post-fire peak flow changes were controlled by burn severity, area burned,
+    aridity, soil type, and geologic province. We also found that post-fire increases
+    in annual water yields, peak flows, and low flows were greatest at the headwater
+    scale but were more muted at the downstream basin scale. Our work provides valuable
+    insights into the range of potential post-fire streamflow changes at the headwater
+    and larger basin scale, which is becoming increasingly critical for effective
+    forest and water management decisions.
+  url: https://www.sciencedirect.com/science/article/pii/S0022169423005279
+  has_article: yes
+  primary: yes
+  inreview: no
+  informal: no
+- key: wamplerInfluenceBurnSeverity2024
+  title: The influence of burn severity on dissolved organic carbon concentrations
+    across a stream network differs based on seasonal wetness conditions
+  authors:
+  - firstName: Katie A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: Kevin D.
+    lastName: Bladon
+    creatorType: author
+  - firstName: Allison N.
+    lastName: Myers-Pigg
+    creatorType: author
+  date: '2024-07-02'
+  journal: Biogeosciences
+  volume: '21'
+  issue: '13'
+  pages: 3093-3120
+  doi: 10.5194/bg-21-3093-2024
+  abstract: Large, high-severity wildfires in many regions across the globe have increased
+    concerns about their impacts on carbon cycling in watersheds. Altered sources
+    of carbon and changes in catchment hydrology after wildfire can lead to shifts
+    in dissolved organic carbon (DOC) concentrations in streams, which can have negative
+    impacts on aquatic ecosystem health and downstream drinking-water treatment. Despite
+    its importance, post-fire DOC responses remain relatively unconstrained in the
+    literature, and we lack critical knowledge of how burn severity, landscape elements,
+    and climate interact to affect DOC concentrations. To improve our understanding
+    of the impact of burn severity on DOC concentrations, we measured DOC at 129 sites
+    across a stream network extending upstream, within, and downstream of a large,
+    high-severity wildfire in Oregon, USA. We collected samples across the study sub-basin
+    during four distinct seasonal wetness conditions. We used our high-spatial-resolution
+    data to develop spatial stream network (SSN) models to predict DOC across the
+    stream network and to improve our understanding of the controls on DOC concentrations.
+    Spatially, we found no obvious wildfire signal – instead, we observed a pattern
+    of increasing DOC concentrations from the high-elevation headwaters to the sub-basin
+    outlet, while the mainstem maintained consistently low DOC concentrations. This
+    suggests that effects from large wildfires may be “averaged” out at higher stream
+    orders and larger spatial scales. When we grouped DOC concentrations by burn severity
+    group, we observed a significant decrease in the variability of DOC concentrations
+    in the moderate and high burn severity sub-catchments. However, our SSN models
+    were able to predict decreases in DOC concentrations with increases in burn severity
+    across the stream network. Decreases in DOC concentrations were also highly variable
+    across seasonal wetness conditions, with the greatest (−1.40 to −1.64 mg L−1)
+    decrease occurring in the high-severity group during the wetting season. Additionally,
+    our models indicated that in all seasons, baseflow index was more influential
+    in predicting DOC concentrations than burn severity was, indicating that groundwater
+    discharge can obscure the impacts of wildfire in a stream network. Overall, our
+    results suggested that landscape characteristics can regulate the DOC response
+    to wildfire. Moreover, our results also indicated that the seasonal timing of
+    sampling can influence the observed response of DOC concentrations to wildfire.
+  url: https://bg.copernicus.org/articles/21/3093/2024/
+  has_article: yes
+  primary: yes
+  inreview: no
+  informal: no
+  materials: https://ir.library.oregonstate.edu/concern/datasets/zc77sz60m?locale=en
+- key: wamplerSpatialTemporalShifts2025
+  title: Spatial and Temporal Shifts in Dissolved Organic Matter Character Across
+    a Burned Stream Network
+  authors:
+  - firstName: K. A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: K. D.
+    lastName: Bladon
+    creatorType: author
+  - firstName: A. N.
+    lastName: Myers-Pigg
+    creatorType: author
+  - firstName: J. A.
+    lastName: Roebuck Jr.
+    creatorType: author
+  date: '2025'
+  journal: 'Journal of Geophysical Research: Biogeosciences'
+  volume: '130'
+  issue: '7'
+  pages: e2024JG008687
+  doi: 10.1029/2024JG008687
+  abstract: Increasing wildfire activity can impact the global carbon cycle, aquatic
+    ecosystem health, and drinking water treatment through alterations in aquatic
+    dissolved organic matter (DOM) composition. However, uncertainty remains about
+    the spatial and temporal variability in wildfire effects on DOM composition. We
+    sought to improve understanding of how burn severity affects stream DOM and how
+    weather, hydrology, and landscape factors contribute to variability in post-fire
+    DOM responses across space and time. Following a large 2020 wildfire in Oregon,
+    USA, we collected water samples to quantify dissolved organic carbon and DOM optical
+    properties at 129 stream sites across the fire-affected stream network. Sampling
+    was repeated across seasonal hydrologic conditions to capture variation in hydrologic
+    pathways and organic matter sources. We developed a PARAFAC model using excitation-emission
+    matrices (EEMs) and used spatial stream network (SSN) models to determine how
+    DOM composition changed across the stream network with burn severity. The greatest
+    shifts in DOM composition were observed during the dry and wetting seasons, with
+    an increase in aromatic DOM at higher burn severities. In contrast, an increase
+    in protein-like DOM was observed during the wet season at higher burn severities.
+    Drainage area, 31-day and 1-day antecedent precipitation, and baseflow index impacted
+    the relationship between DOM composition and burn severity, which could partially
+    explain the variability in post-fire DOM responses. Our study contributes a mechanistic
+    understanding of how wildfire impacts DOM sources and composition, which is critical
+    to predicting wildfire effects on aquatic biogeochemical cycling and preserving
+    ecosystem health and source water quality.
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024JG008687
+  has_article: yes
+  primary: yes
+  inreview: no
+  informal: no
+  materials: https://ir.library.oregonstate.edu/concern/datasets/zc77sz60m?locale=en
+- key: wallPostwildfireWaterQuality2026
+  title: 'Post-wildfire water quality and aquatic ecosystem response in the U.S. Pacific
+    Northwest: science and monitoring gaps'
+  authors:
+  - firstName: Sara
+    lastName: Wall
+    creatorType: author
+  - firstName: Jana E
+    lastName: Compton
+    creatorType: author
+  - firstName: Ashley A
+    lastName: Coble
+    creatorType: author
+  - firstName: Beth M
+    lastName: Haley
+    creatorType: author
+  - firstName: Jiajia
+    lastName: Lin
+    creatorType: author
+  - firstName: Allison
+    lastName: Myers-Pigg
+    creatorType: author
+  - firstName: Justin
+    lastName: Reale
+    creatorType: author
+  - firstName: Katie
+    lastName: Wampler
+    creatorType: author
+  - firstName: Allison
+    lastName: Swartz
+    creatorType: author
+  - firstName: Kevan
+    lastName: Moffett
+    creatorType: author
+  - firstName: Kevin D
+    lastName: Bladon
+    creatorType: author
+  - firstName: Kurt
+    lastName: Carpenter
+    creatorType: author
+  - firstName: Heejun
+    lastName: Chang
+    creatorType: author
+  - firstName: Junjie
+    lastName: Chen
+    creatorType: author
+  - firstName: David
+    lastName: Donahue
+    creatorType: author
+  - firstName: Chris S
+    lastName: Eckley
+    creatorType: author
+  - firstName: Amanda K
+    lastName: Hohner
+    creatorType: author
+  - firstName: Peter M
+    lastName: Kiffney
+    creatorType: author
+  - firstName: Lorrayne
+    lastName: Miralha
+    creatorType: author
+  - firstName: Peter
+    lastName: Regier
+    creatorType: author
+  - firstName: Joshua
+    lastName: Seeds
+    creatorType: author
+  - firstName: Mark
+    lastName: River
+    creatorType: author
+  date: 2026-02
+  journal: 'Environmental Research: Water'
+  volume: '2'
+  issue: '1'
+  pages: '015004'
+  doi: 10.1088/3033-4942/ae36cb
+  abstract: An increase in the occurrence of large, high severity wildfires in the
+    western Pacific Northwest (PNW), USA, has created an urgent need for science to
+    better inform forest management and policy decisions to maintain source water
+    quality in the region. The western PNW faces similar challenges to other regions
+    with shifting wildfire regimes and large population centers reliant on surface
+    water from forested catchments. However, the uniquely wet and highly seasonal
+    climate of the western PNW suggests that findings from other, more frequently
+    burned regions may not be directly applicable. To identify science, monitoring,
+    and management gaps and opportunities in the western PNW, this review was collaboratively
+    undertaken by academics, non-government and industry representatives, and local,
+    state, and federal government entities who have been working together since the
+    2020 Labor Day fires in Oregon. Focusing on Oregon and Washington, we found that
+    monitoring networks for continuous water quantity and quality cover much of the
+    state with greater representation in western U.S. ecoregions, but few studies
+    have analyzed and published these data to capture and communicate the post-wildfire
+    response. Approximately half of the streamgages in Oregon and Washington record
+    major water quality parameters, and hundreds of sites in the area have discrete
+    sampling for a wide range of water quality constituents. Still, numerous gaps
+    exist in understanding the short- and long-term impacts of wildfire on hydrology,
+    water chemistry, including pH and dissolved oxygen, mobilization of metals, aquatic
+    ecosystems, and downstream drinking water treatment. Collective action to further
+    collect, analyze, interpret, and publish the key data could help improve our understanding
+    of post-wildfire water quality impacts in this and other increasingly wildfire-affected
+    regions.
+  url: https://doi.org/10.1088/3033-4942/ae36cb
+  has_article: yes
+  primary: no
+  inreview: no
+  informal: no
+- key: wamplerWhenRiverineSystems2026
+  title: When Do Riverine Systems “Feel the Burn”? Simulating How Burn Extent and
+    Severity Modulate Hydrologic Controls on Biogeochemical Export
+  authors:
+  - firstName: K. A.
+    lastName: Wampler
+    creatorType: author
+  - firstName: A. N.
+    lastName: Myers-Pigg
+    creatorType: author
+  - firstName: H.
+    lastName: Kang
+    creatorType: author
+  - firstName: P.
+    lastName: Regier
+    creatorType: author
+  - firstName: T. D.
+    lastName: Scheibe
+    creatorType: author
+  - firstName: K. D.
+    lastName: Bladon
+    creatorType: author
+  date: '2026'
+  journal: Water Resources Research
+  volume: '62'
+  issue: '2'
+  pages: e2025WR040678
+  doi: 10.1029/2025WR040678
+  abstract: 'Wildfires impact terrestrial landscapes and downstream river corridors
+    through shifts in vegetation and soil properties leading to downstream hydrologic
+    and water quality impacts. The magnitude of these impacts depend on a complex
+    and interconnected set of wildfire, landscape, and aquatic processes. Here, we
+    isolate the impact of post-fire hydrologic changes on streamflow, nitrate, and
+    dissolved organic carbon using the Soil and Water Assessment Tool (SWAT) model.
+    We explore how responses differ across burn severity and area burned in two test
+    basins: a humid forested basin and a semi-arid mixed land use basin. We ran 1830
+    wildfire simulations testing impacts of area burned, burn severity, and post-fire
+    precipitation on streamflow, nitrate, and dissolved organic carbon. Our work suggests
+    that area burned thresholds differ with burn severity and analyte. Additionally,
+    post-fire transport of dissolved organic carbon was sensitive to both area burned
+    and severity, while nitrate was primarily sensitive to area burned. Despite a
+    muted (−9.5 to 5.7 mm yr−1 change) hydrologic response in the semi-arid basin,
+    the model predicted large (7%–288% increase) shifts in dissolved organic carbon,
+    suggesting that post-fire shifts in flow pathways and soil properties are key
+    in its response. The limited shifts in nitrate responses in the simulations highlight
+    that terrestrial post-fire transformations, rather than hydrologic changes, may
+    control the increases in stream nitrate often observed post-fire. As wildfire
+    regimes are shifting, improving understanding of post-fire nutrient export responses
+    is critical to protect freshwater resources and aquatic ecosystems.'
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2025WR040678
+  has_article: yes
+  primary: yes
+  inreview: no
+  informal: no
+  materials: https://doi.org/10.15485/2529445
+  preprint: https://doi.org/10.22541/essoar.174438106.63564767/v1

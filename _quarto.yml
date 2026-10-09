@@ -5,9 +5,22 @@ website:
   title: "Katie Wampler"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: "index.qmd"
+        text: "about me" 
+      - href: "publications/index.qmd"
+        text: "i publish"
+    right:
+      - text: "{{< fa envelope size=1.1em title='E-mail'>}}"
+        href: "mailto:katie.wampler@oregonstate.edu"
+      - text: "{{< fa brands github size=1.1em title='GitHub' >}}"
+        href: https://github.com/katiewampler
+        rel: me
+      - text: "{{< fa brands linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/katie-wampler
+        rel: me
+      - text: "{{< ai google-scholar size=1.1em title='Google Scholar' >}}"
+        href: https://scholar.google.com/citations?user=-6A0bFQAAAAJ&hl=en&oi=ao
+        rel: me
 
 format:
   html:
